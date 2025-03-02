@@ -1,0 +1,12 @@
+.fbGood {
+  font-weight: 600;
+  color: darkmagenta;
+}
+.fbNeutral {
+  font-weight: 600;
+  color: limegreen;
+}
+.fbBad {
+  font-weight: 600;
+  color: blue;
+}
